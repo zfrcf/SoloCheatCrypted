@@ -1,4 +1,4 @@
--- [[ SOLOCHEAT V12 - FINAL TITAN EDITION ]] --
+-- [[ SOLOCHEAT - FINAL TITAN EDITION ]] --
 -- [[ ESP COMPLET | AIMBOT vs SILENT | DISCORD INCLUDED ]] --
 
 repeat task.wait() until game:IsLoaded()
